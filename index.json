@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "name": "SwarnKosh POS Language Repository",
+  "defaultLanguage": "en-IN",
+  "updatedAt": "2026-09-27",
+  "languages": [
+    {
+      "id": "mr-IN",
+      "name": "Marathi",
+      "nativeName": "मराठी",
+      "file": "marathi.xlsx",
+      "direction": "ltr",
+      "wordsLanguage": "mr",
+      "version": "1.0.0",
+      "updatedAt": "2026-09-27",
+      "description": "संपूर्ण मराठी भाषा पॅक (अक्षरी रक्कम, देवनागरी अंक आणि इनवॉइस लेबल्स)"
+    },
+    {
+      "id": "hi-IN",
+      "name": "Hindi",
+      "nativeName": "हिन्दी",
+      "file": "hindi.xlsx",
+      "direction": "ltr",
+      "wordsLanguage": "hi",
+      "version": "1.0.0",
+      "updatedAt": "2026-09-27",
+      "description": "संपूर्ण हिन्दी भाषा पैक (अक्षरों में राशि, देवनागरी अंक और बीजक लेबल्स)"
+    },
+    {
+      "id": "en-IN",
+      "name": "English (India)",
+      "nativeName": "English",
+      "file": "english.xlsx",
+      "direction": "ltr",
+      "wordsLanguage": "en",
+      "version": "1.0.0",
+      "updatedAt": "2026-09-27",
+      "description": "Default English reference language workbook"
+    }
+  ]
+}
